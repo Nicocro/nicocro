@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nico 👋
 
+![Header](https://raw.githubusercontent.com/yourusername/nicocro/main/github_header.png)
+
 I like to work on stuff at the intersection of cutting-edge science and technology.
 
 I believe that Deep Tech is cool. My work focuses on turning scientific breakthroughs (or papers) into valuable products (or features).
