@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nico 👋
 
-![Header](https://raw.githubusercontent.com/yourusername/nicocro/main/github_header.png)
+![Header](https://raw.githubusercontent.com/yourusername/nicocro/github_header.png)
 
 I like to work on stuff at the intersection of cutting-edge science and technology.
 
