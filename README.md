@@ -18,9 +18,7 @@ and here is a totally non-sense header picture :)
 
 ![Header](https://github.com/Nicocro/nicocro/blob/main/github_header.png)
 
-I like to work on stuff at the intersection of cutting-edge science and technology.
-
-I believe that Deep Tech is cool. My work focuses on turning scientific breakthroughs (or papers) into valuable products (or features).
+I think Deep Tech is cool. My work focuses on turning scientific breakthroughs (or papers) into valuable products (or features).
 
 ### Interests
 - **Sports**: kitesurfing , surfing, calisthenics and basketball.
