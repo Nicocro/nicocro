@@ -13,22 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Nico 👋
-and here is a totally non-sense header picture :) 
+# Hi there, I'm Nico 
 
-![Header](https://github.com/Nicocro/nicocro/blob/main/github_header.png)
-
-I think Deep Tech is cool, and so are startups! My work focuses on turning scientific/technological breakthroughs (or papers) into valuable products (or features), usually at startups.
-
-### Interests
-- **Sports**: kitesurfing , surfing, calisthenics and basketball.
-- **Hobbies**: DJing, learning random things 
-
-## Let's Connect
-If you're a deep tech founder or enthusiast, feel free to reach out!
+Currently working on ML/AI stuff 
 
 - [Personal Website](https://nicolacroce.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolacroce/)
-- [Twitter](https://twitter.com/nicolacroce)
+- [X](https://x.com/nicolacroce)
 
-Thanks for visiting my profile!
