@@ -19,5 +19,5 @@ Currently working on ML/AI stuff
 
 - [Personal Website](https://nicolacroce.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolacroce/)
-- [X](https://x.com/nicox_13))
+- [X](https://x.com/nicox_13)
 
